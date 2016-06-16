@@ -1,0 +1,2 @@
+C:\Users\Kyle\Desktop\Serial Port Sniffer\SerialSniffer\bin\Debug\SerialSniffer.exe.config
+C:\Users\Kyle\Desktop\Serial Port Sniffer\Source\SerialSniffer\bin\Debug\SerialSniffer.exe.config
